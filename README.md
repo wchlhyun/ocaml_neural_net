@@ -1,4 +1,4 @@
-# 3110-final-project
+# 3110 Final Project: Ocaml Neural Network
 Machines Doing Our Homework For Us
 
 TO INSTALL NECESSARY PACKAGES:
@@ -10,3 +10,6 @@ TO INSTALL NECESSARY PACKAGES:
 TO RUN:
 run make, then run ./main.byte, followed by command line arguments.
 (use -help to see all arguments)
+
+
+#### Made with Joshua Kaplan, Freya Ryd, Janie Walter
