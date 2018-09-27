@@ -1,0 +1,4 @@
+When installing the OWL library, if you get the error:
+    Cannot load required shared library dllowl_stubs
+On mac, move the file dllowl_stubs.so from ~/.opam/.../lib/stubslibs to ~/.opam/.../lib/stublibs,
+where ... is your ocaml version

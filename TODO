@@ -1,0 +1,23 @@
+Write a guide for how to install the required packages.
+
+Replace failwith with exceptions
+
+image needs to be turned into vector, not matrix
+
+document all code
+
+add flags for turning parts off:
+  - segmentation
+  - cutting whitespace on characters
+
+
+Steps for nn
+------------
+set up architecture for proper outputting
+
+
+https://github.com/karan1149/crohme-data-extractor
+
+add command line option to disable neural network completely and simply output the images resulted by classifier
+
+verify pdf output command

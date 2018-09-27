@@ -1,0 +1,1268 @@
+commit 741220328cf6d61f4a2bad5e2801ed60e686eaf3
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 16:18:10 2018 -0400
+
+    Fixed main default nn
+
+commit 8efabedc0ebd6ac7de429d1f59507517511e54d3
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 16:14:03 2018 -0400
+
+    Documented some stuff
+
+commit 75d3dc40b0a31ce2cbec297a232e163e47b951c4
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 16:01:53 2018 -0400
+
+    Finished documenting math
+
+commit 8ee6b9876966214964bdeb1d9e86c9734f777d12
+Merge: 53f1293 8ad46a3
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 15:48:58 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:jgk83/3110-final-project
+
+commit 53f1293b83198cd518543edb930cbbed82d18257
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 15:48:48 2018 -0400
+
+    Pushed another network
+
+commit 8ad46a3712e13ddc498e5edea051dd0220867255
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 15:39:35 2018 -0400
+
+    j_test2
+
+commit dffbdfc4d1851efa40556a465fa8c1be68cb1d7d
+Merge: 7d12cf6 29c553a
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 15:36:51 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 7d12cf670b1358235cbd5cfee15569bb2c47de11
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 15:36:33 2018 -0400
+
+    updated documentation, bugfixes in main and classifier.
+
+commit 29c553a32abe31de88664cb8b4467ff5a17b8c44
+Merge: cac55a4 40dfa5c
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 15:35:28 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:jgk83/3110-final-project
+
+commit cac55a4cf42f61b46c44aa078ce5447092cf7287
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 15:35:22 2018 -0400
+
+    Added install to make file, and some documentation
+
+commit 40dfa5cca302e780617f25ad62c8ac416a77b949
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 15:29:35 2018 -0400
+
+    updated segmenter documentation and removed unused code in tokens
+
+commit 42b6f19b53439bb82496e25f872a973a744c9fe7
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 15:21:50 2018 -0400
+
+    Documentation of tokens and translator updated
+    upload actual j_test2
+
+commit 713dc43ff14ae06aed138b9655d3fc338ef0028a
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 14:34:11 2018 -0400
+
+    janie writing 2
+
+commit b205ae0ef54f77d48a92a7c76abfadbd8d4a1b9d
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 14:30:11 2018 -0400
+
+    Freya writing sample
+
+commit 1b9c34eb2de69de2538fe71694124c1bee865927
+Merge: ff5650a f19ef01
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 14:18:16 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit ff5650ac6c6cc579fb25a05c29935ad4f55af448
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 14:18:09 2018 -0400
+
+    janie handwriting
+
+commit f19ef01fffa176aa0566be4fe797797b34aaaa37
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 14:15:30 2018 -0400
+
+    bugfix in classifier
+
+commit b1ef539974bf58d7e59298bfc196e4d315b58841
+Merge: 5aca3da 976021f
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 13:57:42 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 5aca3daecec936f811f448c27766f3adfe3aba71
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 13:57:18 2018 -0400
+
+    implemented switching neural networks in cmd line
+
+commit 976021f29bf5d45ee12e104c9e6aecbe8ff2fa49
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 13:34:27 2018 -0400
+
+    Moved networks to a folder
+
+commit e6dbdad2645dae117ea5008b2ebd80fd604e7144
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 13:27:11 2018 -0400
+
+    woochoel writing sample
+
+commit 723a327333e101f2bc31455e6a67b1df0c87b50c
+Merge: 85f66ed 69f535b
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 13:19:33 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 85f66ed6313b38dd314d91200b273a3bdeed33c6
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 13:18:57 2018 -0400
+
+    trained classifier 4
+
+commit 69f535bc42c7ebb1ec020486f6bf1f78de7166a0
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 13:18:23 2018 -0400
+
+    Fixed range of brightness values, from 0-1 to 0-255
+
+commit 8281765ec1b9708895e8993aeb022b91af3cf53a
+Merge: 5e9e052 6746d51
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 02:19:48 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 5e9e05201b18c3cf91f01aeda1ea2489d1434faa
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 02:19:43 2018 -0400
+
+    Added save_char_imgs to classifier
+
+commit 6746d5174b132479bc65a409bb2370733fc9241a
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 02:14:18 2018 -0400
+
+    An experiment in smaller data
+
+commit bf3513507a4c639e28c58fe9394d9b4646b82d6c
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 02:10:18 2018 -0400
+
+    Some changes
+
+commit 015e9d7a13cca764198d487c97c26a36aa67b5e9
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 01:26:30 2018 -0400
+
+    Moved test images
+
+commit a0cc67624adfdd37d2f9bc17cf215b81f165e626
+Merge: 2c0b683 57b1b99
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 01:24:53 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:jgk83/3110-final-project
+
+commit 2c0b683bc3ecb6be7d6242c06aba2cf6fa9cf5ac
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 01:24:41 2018 -0400
+
+    Added working networks
+
+commit 57b1b993a8f5e6492aafe13e72895dd2304afbc8
+Merge: a3cd686 563c57c
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 01:16:25 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit a3cd686335cc623c00a15fc838d48cdc2945949f
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 01:16:18 2018 -0400
+
+    rewrote p_chars to work with new data types
+
+commit 563c57cf21a63b992c6fe5a7a0c066f7d28464ab
+Merge: 55caaea 24ba7ab
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 01:15:09 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 55caaeaefb65d74b8c552cdabd1428f312a9ca6f
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 01:14:47 2018 -0400
+
+    changed bt in main
+
+commit 95e0fbf733a22b1e2061240b30125dd40179d52e
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 01:12:19 2018 -0400
+
+    Implemented main
+
+commit 24ba7aba8906a8e84094a40c95aa11ea4a29838c
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 00:50:29 2018 -0400
+
+    small bug (no psi)
+
+commit 06bcf278bdb9a074509e4cd9b9a44013f6e6f4eb
+Merge: fbd308f 471bc6e
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 00:47:54 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit fbd308fa60a26a8fac7263ecf10e2136c4aa7229
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 00:47:51 2018 -0400
+
+    Segmenter testing and token testing
+
+commit 67fbb8708092df2e03ee58ddcc130a1d9cfff1fc
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 15 00:39:50 2018 -0400
+
+    got rid of "asdf"
+
+commit 471bc6e63edad7949d131bd4e0654459e24df36c
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 00:31:13 2018 -0400
+
+    Merged
+
+commit bac20f1704789afba3bbd8ce732b3e6c3cc5c46a
+Merge: ecdabd3 752a379
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 00:30:48 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:jgk83/3110-final-project
+
+commit ecdabd3fb852373e968caaa6ba39c8c6f8dfe3d2
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 15 00:30:43 2018 -0400
+
+    Changed dataset
+
+commit 752a379f89469b1b61bee8aa6b796acbfd49a542
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 15 00:15:01 2018 -0400
+
+    Implemented classifier, simplified implementation of lines and blocks
+
+commit 8b5d8ce3a69a0807f4ff1337dc9f90dae5eceeb5
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Mon May 14 22:45:44 2018 -0400
+
+    got rid of those weird marker things
+
+commit 297a4905c23835c873850de0cd18025a114f674e
+Merge: 50b4547 a89208d
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Mon May 14 22:44:40 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 50b4547b085dc93b1d4598600c19291932ba3195
+Merge: 51b4bd2 7f56d65
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Mon May 14 22:44:17 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit a89208d5f1b5b447d6227868cbc434f8bcc25872
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Mon May 14 22:43:01 2018 -0400
+
+    Leetle bug feex in segmenter
+
+commit 51b4bd20f6dc4c58b5065691502afa5abdf58195
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Mon May 14 22:42:56 2018 -0400
+
+    Fixes in Token types
+
+commit 7f56d65647852fe82a79de201cf6a2c6387426c1
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Mon May 14 22:24:11 2018 -0400
+
+    Finished Segmenter!!
+
+commit 670e992256825ca85da26cb404043d5bddfcda89
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon May 14 21:40:38 2018 -0400
+
+    Fixed training
+
+commit db53d406039da04c5d642a3c29a1680faa2d369a
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Mon May 14 18:57:19 2018 -0400
+
+    Fixed segmentation, still getting bug on cutting whitespace
+
+commit d4891cc2466f1ca4f81f663bb5d8a14b0ba260c9
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Mon May 14 17:27:27 2018 -0400
+
+    sample image for segmenter
+
+commit 639ea550d2a24db5ae27b04804f88503cc793fa2
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 23:00:43 2018 -0400
+
+    Fixed some bugs in token. We get an index out of bounds exception though. Invalid argument.
+
+commit 1eee8e49fb51bd37e2980e28be4bd39a5585098e
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 20:09:16 2018 -0400
+
+    Train file written. untested. Might not compile
+
+commit 35cac758ee402a46fd96ef98745da628beb39124
+Merge: 208b339 f44f8b1
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 19:48:54 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:jgk83/3110-final-project
+
+commit 208b3395567d8eb3e25baac74ccba9120360812a
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 19:48:50 2018 -0400
+
+    Changes to tokens
+
+commit f44f8b17795d0f02dbe3891309d259104e4837c0
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Sun May 13 19:39:18 2018 -0400
+
+    fixed bugs in tokens and math
+
+commit d53ae0f26d7d6c84c1aed2657c1fd5bf7a6bf4c3
+Merge: 38e4139 c9fa098
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Sun May 13 19:29:17 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 38e4139fbc058ea003e569ad8a13a0e2d8d896b2
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Sun May 13 19:27:16 2018 -0400
+
+    implementation of segmenter
+
+commit c9fa098165f475903bfbd833dd632ea81fd78560
+Merge: 92e6814 94e79e8
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 19:11:00 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:jgk83/3110-final-project
+
+commit 92e6814c5c150fbfcfa88b913e2028920d1f1538
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 19:10:51 2018 -0400
+
+    Fixed some stuff
+
+commit 94e79e8af8e95e518b76e62e9508ea73e68f5bc6
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Sun May 13 19:02:25 2018 -0400
+
+    updated readme
+
+commit 5c01f6deb81b528d4954e1e57fa04e1484dd2fac
+Merge: 24c818d 447f6aa
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Sun May 13 19:00:04 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 24c818d82445dd6a10b8875cbcb5c80af0524b31
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Sun May 13 18:59:58 2018 -0400
+
+    Added support for .jpg files
+
+commit 447f6aa05a026d60fe5552d1c92aa3a1ec19056d
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 18:19:45 2018 -0400
+
+    Modification of certain files, such as tokens
+
+commit 1ae52611492602767e0c343e8ec8bda8563fbeb8
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 16:09:11 2018 -0400
+
+    Saving and loading nn works now
+
+commit b1a310b20fd27d20223b82cef68e4fd213757790
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Sun May 13 15:21:34 2018 -0400
+
+    small fixes in image.mli
+
+commit 13db1ca5ac6dbdf58c7da518f5b2b6b9d807d8b9
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Sun May 13 15:16:17 2018 -0400
+
+    Fixed make_standard
+
+commit 26d1758890d5c6b6823474bbebbb8c7056f51e0c
+Merge: 0bd7491 4295299
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Sun May 13 15:09:36 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 0bd7491bfbd47f2beec762db5f14a7390e54f29e
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Sun May 13 15:09:32 2018 -0400
+
+    Implemented resizing, character image intake now complete
+
+commit 42952999f30941f6ec0a501edbab96232b757c6e
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 01:14:55 2018 -0400
+
+    MNIST working. Messed up saving though (of nn)
+
+commit 86a59b049d28017388b946b5f1e7bd7cd4c45ea4
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 00:04:27 2018 -0400
+
+    Refactor: train_array -> train_matrix
+
+commit 7b76abb34a9cad5e23e2776d4e40ff968278960a
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun May 13 00:03:35 2018 -0400
+
+    Rewrote train so that it would work on matrices
+
+commit 3efa6059738f513deed7a4ac84eb606bf1507847
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sat May 12 22:56:11 2018 -0400
+
+    Fixed some network things. Mnist sometimes works. Fixed gradient explosion issue
+
+commit 8474c2b0cd952ff011d0eb0046562c9bdfaf7700
+Author: Woocheol <wh367@cornell.edu>
+Date:   Sat May 12 20:43:11 2018 -0400
+
+    resolve conflicst
+
+commit 7f4d6b87062aecb66384bea110bfaee24c57b9ce
+Merge: 97b59a6 0841eca
+Author: Woocheol <wh367@cornell.edu>
+Date:   Sat May 12 20:42:15 2018 -0400
+
+    merge conlicts
+
+commit 97b59a69ad2c91d3bcc16cf4a46ccdd8a911f94f
+Author: Woocheol <wh367@cornell.edu>
+Date:   Sat May 12 20:41:02 2018 -0400
+
+    undo later maybe
+
+commit 0841ecade46d81262416278b73abb7c560516210
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sat May 12 20:40:06 2018 -0400
+
+    Pushing some unknown changes
+
+commit 747e4a6bc3e8503911639268363c303ca7703c7c
+Author: Woocheol <wh367@cornell.edu>
+Date:   Sat May 12 00:33:31 2018 -0400
+
+    rip
+
+commit 595fd9c1ee71bcadb3687e5f2630eb35d7f2c8c4
+Author: Woocheol <wh367@cornell.edu>
+Date:   Sat May 12 00:21:22 2018 -0400
+
+    IT WORKKKKKKS
+
+commit e34a08c8627f706151792f5a12343dfdc47754e6
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri May 11 23:30:44 2018 -0400
+
+    Added converter function in math
+
+commit 800ad25fcbf34017d6c3569115bece41d9912d12
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri May 11 23:28:32 2018 -0400
+
+    Added converter function in math
+
+commit a933420bc2242df8ca546382358621f2240962f3
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri May 11 23:25:40 2018 -0400
+
+    Added converter function in math
+
+commit 91f776d4836b8b17a1a4603c34d3c9efc12b0c0f
+Merge: 98bb462 382fdd6
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri May 11 22:47:35 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:jgk83/3110-final-project
+
+commit 382fdd66ea343b195ce59d63c65c88abb5d4f02f
+Merge: 370510b 72e5cfb
+Author: Woocheol <wh367@cornell.edu>
+Date:   Fri May 11 22:47:07 2018 -0400
+
+    tested things i think
+
+commit 98bb4626c66914d2a9c8dba559c6910f045de452
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri May 11 22:47:04 2018 -0400
+
+    Fixed (potentially) softmax
+
+commit 72e5cfbd6da71ffe4d1785b47cba44e930f1c17a
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri May 11 22:26:17 2018 -0400
+
+    Pushing to another computer
+
+commit 4b9622b02363c65054e0b499587310c49b2e55b6
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri May 11 22:00:06 2018 -0400
+
+    Fixed most of softmax
+
+commit b0993f9c0e99a7012a514899ee83edd33c8e597a
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri May 11 21:35:44 2018 -0400
+
+    Commiting for fun
+
+commit 370510b50cf09abe8722b8d0707ffc878b4a1f43
+Author: Woocheol <wh367@cornell.edu>
+Date:   Fri May 11 21:34:45 2018 -0400
+
+    added get average errorR
+
+commit 753257b802e47eb79984a71d29385a0762701e9d
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Wed May 9 12:53:32 2018 -0400
+
+    Added a load_network function to the neural network. Began fixing softmax. Added repeat back into the math library
+
+commit 09e43fd76c3a625e9bff819c8bb5802f02e90801
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Wed May 9 12:07:59 2018 -0400
+
+    Reorganized Math file. Removed duplicate function in math library
+
+commit c0bd92b1d78310a4eae8be3ea8c83f232f2ae35b
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 8 17:34:41 2018 -0400
+
+    strange merge things
+
+commit 731ef34fa60a06100f325c59f2255e55d6ec8e16
+Merge: bb3ad0b 584ad01
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 8 17:34:14 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit bb3ad0b6326d472ebffa2b5164ef02adbb5508e4
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 8 17:33:05 2018 -0400
+
+    Began implementing pixel resizing algorithm
+
+commit 584ad019366474748a9b219f8bfb10290fb87be0
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 8 17:00:09 2018 -0400
+
+    Potentially fixed Relu layer. Softmax layer doesn't work because activations is not a vector
+
+commit 572a705a973d74d2dcfbfc081a641841a4b23893
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 8 15:51:24 2018 -0400
+
+    Fixed a potential bug
+
+commit 7f504292655925b940364e181222de11ea4b9efc
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sat May 5 22:21:56 2018 -0400
+
+    Added argument parsing to main. Currently the arguments don't do anything, since that file isn't written yet
+
+commit aa55d82aad40e2f35a2ad59798a260e9b2cc8f9f
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 1 22:34:15 2018 -0400
+
+    bug fix in resize. (still doesn't work totally but)
+
+commit 1d236b4820b87d40d1c200e88e70208a6489177c
+Merge: 2566cc1 934426f
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 1 22:15:44 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 934426f276a142c5032c44757f289751b6bd9dbf
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 1 17:35:55 2018 -0400
+
+    Fixed make square, padding works correctly! :)
+
+commit cbbf45eca8e6bd4667e12f7d2c558a1ea7d77295
+Merge: 0e32f80 cafa39a
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 1 17:25:43 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 0e32f801a11018712a756dce4fc7e6d6e789435d
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 1 17:25:17 2018 -0400
+
+    fixed array to image and working on resize
+
+commit cafa39aabaa94da8fcc8429b8fdf8f3924f42421
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 16:59:56 2018 -0400
+
+    Fully working fully-connected neural network
+
+commit a2241f1248007af63366683a3319021e67621dbe
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 16:57:16 2018 -0400
+
+    Semi fully working neural network
+
+commit 2566cc109b0f4bcff352388b471d7e1ef215c339
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 1 16:30:52 2018 -0400
+
+    More testing/latex changes
+
+commit 89dc794a6d62d6693e5a176d30593e8a761e180e
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 15:13:50 2018 -0400
+
+    Backup
+
+commit 367cc2b3385523246713a9aa9c420fa7d3426183
+Merge: 753a6d0 de3546d
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 14:55:45 2018 -0400
+
+    Resolved merge conflict
+
+commit 753a6d0ffd64afe78e2389671c3f073afc5633a6
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 14:54:07 2018 -0400
+
+    Fixed a bug
+
+commit de3546d139d58dc975f70ebe9ed035206e6321a4
+Author: Woocheol <wh367@cornell.edu>
+Date:   Tue May 1 14:52:08 2018 -0400
+
+    pushing
+
+commit 396949223dc2640924012d28ff06468d35f6bfb7
+Merge: 34a63fe a4ac56b
+Author: Woocheol <wh367@cornell.edu>
+Date:   Tue May 1 14:34:19 2018 -0400
+
+    resolve conflicts
+
+commit 34a63fead0b1edc6a12a870d9ecc7249e7c1c124
+Author: Woocheol <wh367@cornell.edu>
+Date:   Tue May 1 14:32:33 2018 -0400
+
+    small fixes to backrpopring
+
+commit a4ac56be24675f155ac5bcb4f3c57cca78c26407
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 14:14:21 2018 -0400
+
+    Undid previous changes
+
+commit 87c02a3b646e14a753a88123f6d2ce2df66a7e98
+Merge: b244ceb a086fd4
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 14:04:44 2018 -0400
+
+    Fixed merge conflict
+
+commit b244ceba3aa8a241abae939c43fa3f2520036054
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 14:03:51 2018 -0400
+
+    Potentially fixed a bug with backpropogation
+
+commit a086fd457bd3cc2b56960a7683fea07556734fc0
+Merge: 4d15582 4265d89
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 1 12:09:32 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 4d155826b6ed82d31560fc598bed336d2c81e4dc
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Tue May 1 12:08:41 2018 -0400
+
+    Added functions to Math
+
+commit 4265d895de776de50af63ce8ac60b5da418fa92b
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 1 10:10:43 2018 -0400
+
+    Printing testing and fixes
+
+commit b18fd184083f4fbec64380fe56b44750c1e1c7e0
+Merge: 3228200 28c64eb
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 1 09:50:37 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 3228200e508d5728bfaa96f12694d07abb8443e0
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Tue May 1 09:50:21 2018 -0400
+
+    testing
+
+commit 28c64eb63f0419cb580c3c8d6b1de38b60181d54
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 01:13:28 2018 -0400
+
+    Changed .ocamlinit to load neural_network as a module
+
+commit ca7314f08ec2e19db04dae24421727c269feb8c4
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 01:10:43 2018 -0400
+
+    Added testing for neural network. Gradient explosion occurs
+
+commit f4e90f7c2785945ffe6e241640b793ddda70dfb8
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 00:28:07 2018 -0400
+
+    Potentially finished backprop (v2) (now with learning rate)
+
+commit 945801291760c6b7a4b34e9dee859c8f64a6c9dd
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 00:25:52 2018 -0400
+
+    modified .ocamlinit
+
+commit 7ae6095e3b534f7efde6c4533225e5da7c9c2481
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 00:11:59 2018 -0400
+
+    Resolved merge conflicts on main
+
+commit 5fca2c2c16b28f6ffd8b5ac273477c4416c560c7
+Merge: 47ecd11 70475f9
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 00:11:02 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:jgk83/3110-final-project
+
+commit 47ecd11e0928614e12f69740b283c5d8d965bd2e
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue May 1 00:10:53 2018 -0400
+
+    Backprop potentially done
+
+commit 8b3e53e12134e998628d7e387ab6e844b264f17e
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon Apr 30 23:59:47 2018 -0400
+
+    Wrote most of training
+
+commit 70475f92cef0da8313ecf480cdadb64e47eaa3d3
+Merge: 1530e63 97e44e0
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Mon Apr 30 23:55:14 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 1530e63ae99b6cc175c2f3c3180737d599f89160
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Mon Apr 30 23:54:53 2018 -0400
+
+    fixed version of latex symbols
+
+commit 97e44e0966536684645ce93a892ffe03a14f0149
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon Apr 30 22:58:25 2018 -0400
+
+    Fixed messed up merge in math file
+
+commit a6e16b8519a7164e9ec353b8978202aee821b740
+Merge: 844df77 cd747a6
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon Apr 30 22:45:09 2018 -0400
+
+    Merged
+
+commit 844df777f598b341eec935ff149e6f616a73bbf2
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon Apr 30 22:44:08 2018 -0400
+
+    Fixed neural layer testing
+
+commit cd747a6624fe7e48dc8005ad6dfe374f726ce311
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Mon Apr 30 22:16:45 2018 -0400
+
+    Bug fixes in segmenter, image. Added matrix fns in Math
+
+commit 34d3f90fc075105bf4a4ce9df5b77d4ea250d0be
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Mon Apr 30 21:59:39 2018 -0400
+
+    type error in image
+
+commit b70c329ddd608dcab13640012151b1dab24e0fcd
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon Apr 30 21:50:38 2018 -0400
+
+    Fixed package not found. Make it compile
+
+commit 019db3cb763f720c607f306743a54bb792a80f85
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon Apr 30 21:43:39 2018 -0400
+
+    Fixed spelling of word
+
+commit 54885d283e799d5db88f6eb4c94d195f1f5f625f
+Merge: b83a3d4 6f8b762
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon Apr 30 21:37:47 2018 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:jgk83/3110-final-project
+
+commit b83a3d4a1d17d12d39bf2bd1be47726aaed333a4
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon Apr 30 21:37:39 2018 -0400
+
+    Pushing for the sake of pushing
+
+commit 6f8b762175bf4bb4ed9dcf7533b5a70b7e7a19d2
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Mon Apr 30 18:14:23 2018 -0400
+
+    Implemented white-space padding for standardizing images.
+
+commit b249e7bb11b4d1a96bc80c25a85104216a1eccda
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Apr 26 23:25:13 2018 -0400
+
+    weird merge fixes, sorry guys
+
+commit 48d47f2ce8b66a982b47c8f52f4ed4df4c07c868
+Merge: a2535fa e75d4b8
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Apr 26 23:24:32 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit e75d4b8c5de8d213e97a0828a59dc481058b68ba
+Author: Janie Jaffe Walter <jjw249@cornell.edu>
+Date:   Thu Apr 26 23:22:42 2018 -0400
+
+    Added image loading to matrix
+
+commit a2535fa0645101665c1f3724b59dbb72e6214050
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Apr 26 23:20:28 2018 -0400
+
+    Added image loading to matrix, began segmentation algorithm.
+
+commit 1f5f9beb8e9fd6c890fb2b4880a8bb586f7ae41d
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Thu Apr 26 21:03:35 2018 -0400
+
+    began translator and tokens
+
+commit 6a6b71fa55883c91bb9fdd370f73551d8c6111cf
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 26 18:37:19 2018 -0400
+
+    Added testing. Results not positive
+
+commit 9cc9b66b46e98006aec5c4f971120f5e36203bd5
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 26 17:31:36 2018 -0400
+
+    Backpropogation potentially implemented
+
+commit b03223b0ddc2cbe9d95dd592feb6375efb764a70
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 26 16:47:16 2018 -0400
+
+    Forward propogation works
+
+commit 496f8b2e4e01c9db951ff0fd881b308056bc512d
+Merge: 315bdfd b1dbc0a
+Author: wchlhyun <wh367@cornell.edu>
+Date:   Thu Apr 26 14:16:06 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 315bdfd391e9f8e3aa0ab6b80b314fb03afa80d3
+Author: wchlhyun <wh367@cornell.edu>
+Date:   Thu Apr 26 14:15:22 2018 -0400
+
+    added digit samples
+
+commit 1103dc7ef999b7fbb020afe338cd9c233341b2d8
+Author: wchlhyun <wh367@cornell.edu>
+Date:   Thu Apr 26 14:08:44 2018 -0400
+
+    finished nn
+
+commit b1dbc0a50fdfedf09c4c997283bf4c85474bb89a
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 26 13:50:21 2018 -0400
+
+    Some changes
+
+commit 27f065f121d0875ea6ef270546462d064a4d349e
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 26 12:18:51 2018 -0400
+
+    Created weights/biases creator based on python neural network
+
+commit 08fe3f5473d5d26685444a489c6ff855a0380efa
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 26 11:55:49 2018 -0400
+
+    Added stub implementations for layers
+
+commit e2d9c1b275468d815c0cbb9f22ba9395dea6c035
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 26 11:52:26 2018 -0400
+
+    Changed specification for layers again
+
+commit 75544bf21464debf8c20b35b993cc1a6a232d409
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 26 04:58:31 2018 -0400
+
+    Made some changes to structure of NeuralNetwork and NeuralLayer to use functors.
+
+commit 28d4624e7f3f430484d11a47a3ced7ec4813688a
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 26 03:30:49 2018 -0400
+
+    Changed neural network type. Fixed process and find_cost functions in neuralnetwork.ml. Added functions to Math module
+
+commit 2bb29ace880263a881fcf1a211ebfa38a09ed423
+Author: wchlhyun <wh367@cornell.edu>
+Date:   Tue Apr 24 23:57:23 2018 -0400
+
+    implmeneted NN in python
+
+commit 99afe50c4380291cadbf9e43de236bfd04032913
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Mon Apr 23 22:53:24 2018 -0400
+
+    Started making changes to network file
+
+commit 91cc68c56893cddfc2c422932dd67351b2c9ffff
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun Apr 22 21:26:30 2018 -0400
+
+    Changed neural layer
+
+commit 747297286da93b0fa26095d273f1ef130f024580
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun Apr 22 17:31:36 2018 -0400
+
+    Created neuralnetwork and neurallayer ml files and started writing save method
+
+commit dca7a0e4e17a3074f66100b3fffb5e88faccc92e
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 19 16:42:35 2018 -0400
+
+    Added stuff to neural layer
+
+commit a0cff3e08e479c88fe47c63cdbc2106926f22eb2
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 19 13:58:50 2018 -0400
+
+    Added some more functions to Math
+
+commit c60848836cec085fc40418656130bbc10f288562
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 19 13:48:38 2018 -0400
+
+    Added map function to Math
+
+commit 08cfca3fa491fbbe1c950c4ae4cd6d9e39cbe1b2
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Apr 19 13:45:50 2018 -0400
+
+    Started making neural layer. Added a few functions to Math
+
+commit c9af9e372a78e1bd4aa7eb095d1489bedda93343
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue Apr 17 16:31:22 2018 -0400
+
+    Added a TODO file
+
+commit b6cb4292584d9f2b1d097048303d1adc1048cd74
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Tue Apr 17 16:21:18 2018 -0400
+
+    Added layer file
+
+commit 116243adb297e3ca6c29188fd9b8f3200c15b851
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun Apr 15 16:19:09 2018 -0400
+
+    Added filler code to the main file so that compilation would work
+
+commit c405c9c35ddec8d4bd5c7cc863e8927a1ba79900
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Sun Apr 15 15:47:48 2018 -0400
+
+    Started adding functions to the Math file
+
+commit d800623dae3fb9ca7a7f7894e5dea4b83a0e0c44
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri Apr 13 15:54:11 2018 -0400
+
+    Attempted to add merlin files
+
+commit be1c880ab638e105ac383865c494e43479a6ce51
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri Apr 13 15:33:12 2018 -0400
+
+    Added math mli and ml files
+
+commit 303a4fe3fefee5804b754041365e4650538caef3
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Fri Mar 30 00:04:23 2018 -0400
+
+    Added zip to Makefile
+
+commit b1bcd710cad1de76eb23f2391b2329feb28871c7
+Author: Woocheol <wh367@cornell.edu>
+Date:   Thu Mar 29 23:25:01 2018 -0400
+
+    Added saving neural net to file
+
+commit ba5cfe7c9220109a0e134f3b41b5adfd6155ea7a
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Mar 29 23:10:08 2018 -0400
+
+    Added imgBlock definitions
+
+commit 2289d89fbfc7429328708b1c652e0d0271a8b77b
+Merge: 4870e5a 838c09f
+Author: Woocheol <wh367@cornell.edu>
+Date:   Thu Mar 29 22:40:22 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 4870e5a770b4d87b7c31d9c1511e6ca661bc3d4c
+Author: Woocheol <wh367@cornell.edu>
+Date:   Thu Mar 29 22:40:14 2018 -0400
+
+    Changed segmenter.mli
+
+commit 838c09f21f98bf7aa7ee0521b8a6ec562aeb7dc1
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Mar 29 22:38:22 2018 -0400
+
+    Fixed some image details
+
+commit 7e7ab41d6a6a9f2c2b9de43bcb403c95a088d354
+Merge: 26fc1e7 86698e7
+Author: Woocheol <wh367@cornell.edu>
+Date:   Thu Mar 29 22:09:12 2018 -0400
+
+    Resolved merge conflicts in segmenter.mli
+
+commit 26fc1e755e2d856fbb089a0694a600ead733374e
+Author: Woocheol <wh367@cornell.edu>
+Date:   Thu Mar 29 22:07:46 2018 -0400
+
+    Added to segmenter.mli, classifier.mli, neuralnetorks.mli
+
+commit 86698e745e8afba747285af5efbc2c0ba6feebf5
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Thu Mar 29 22:04:24 2018 -0400
+
+    stretch goal server
+
+commit ffd2d69107544537c13eccf0c9dc637316d39a8a
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Thu Mar 29 22:01:51 2018 -0400
+
+    translator
+
+commit 0dfb14436b6d75e955e4284fab35742e09b6fc78
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Thu Mar 29 21:48:08 2018 -0400
+
+    segment method
+
+commit e5398b6a2bfd70358feee768c78cab1ad09ed43f
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Mar 29 21:31:39 2018 -0400
+
+    Fixed token types
+
+commit 386e052b785d8416818819fff9e8bb7f7670c066
+Merge: 2e0a936 a06528c
+Author: Woocheol <wh367@cornell.edu>
+Date:   Thu Mar 29 21:24:19 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 2e0a9365ec8e05ea5d347c13574910971c5f90c6
+Author: Woocheol <wh367@cornell.edu>
+Date:   Thu Mar 29 21:24:07 2018 -0400
+
+    Started classifier.mli
+
+commit a06528c4dc0c62e29819b05697318c259db05532
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Mar 29 21:04:21 2018 -0400
+
+    Added token and block types
+
+commit b40afc39b8d3dfcaa082cfa8c93e465ac0149b6f
+Merge: dff872a 92ef4bd
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Thu Mar 29 19:52:44 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit dff872ae295f383ae581c6c7421df47818c8bf07
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Thu Mar 29 19:52:37 2018 -0400
+
+    changed image not to be in module, started segmenter
+
+commit 92ef4bdc2b72e66a362deb0ab6cda44bfb68856f
+Merge: d74d596 31fd904
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Mar 29 19:25:36 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit d74d5967348d6e9ca322315e9095efcc268711ce
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Mar 29 19:25:30 2018 -0400
+
+    Updated token interface
+
+commit 31fd904a0a9fc24f835017ac7572ff5d5f9671d1
+Merge: 80ff4a3 53480d6
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Mar 29 18:56:21 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 80ff4a38264f1ffb3ffa7ab8997cf9de379a433a
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Mar 29 18:56:18 2018 -0400
+
+    Added some Exceptions and Main stuff
+
+commit f00d4607fed399256616114b7cbd3d2671a2c1a1
+Merge: 5ea1b62 2ccc06d
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Mar 29 18:45:05 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 5ea1b6262ac10f14bfb26ce1ee67c62c6367cc0a
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Mar 29 18:44:59 2018 -0400
+
+    Added neural network module
+
+commit 53480d6aaebbdafe19d4a7620fc114d2f5918a02
+Merge: 5a652d7 f00d460
+Author: Woocheol <wh367@cornell.edu>
+Date:   Thu Mar 29 18:42:08 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/jgk83/3110-final-project
+
+commit 5a652d7e3000ffdd0fed076fd96e6d30809aa377
+Author: Woocheol <wh367@cornell.edu>
+Date:   Thu Mar 29 18:33:34 2018 -0400
+
+    Started classifier.mli
+
+commit 2ccc06d083cea9046919918fbeab5041a917b847
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Thu Mar 29 18:22:12 2018 -0400
+
+    image raises not_found
+
+commit 95b846d86eeea4432a0b54abc1cdc80514c83312
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Thu Mar 29 18:20:43 2018 -0400
+
+    format
+
+commit a951cbd05fdda3e0b4ed468e87fdcd169aa7913a
+Author: Freya Ryd <flr26@cornell.edu>
+Date:   Thu Mar 29 18:19:19 2018 -0400
+
+    img functions
+
+commit 4ecb84e5fe75da962766c1e6ca59e7d6bc37d66a
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Mar 29 17:49:43 2018 -0400
+
+    Added files
+
+commit f1ca66214a710f56fca36722c9411f0ba2dc19b4
+Author: jgk83 <jgk83@cornell.edu>
+Date:   Thu Mar 29 17:40:41 2018 -0400
+
+    Added Makefile
+
+commit e3556adf5db33a9bb570ab3847bb9d8271ce70cc
+Author: jjw249 <jjw249@cornell.edu>
+Date:   Thu Mar 29 17:40:14 2018 -0400
+
+    Created mli files
+
+commit 3b188bbfd7a8e98dbc3356aca94641d6f5a9afd4
+Author: Joshua Gray Kaplan <jgk83@cornell.edu>
+Date:   Thu Mar 29 17:31:17 2018 -0400
+
+    Initial commit

@@ -1,0 +1,29 @@
+*.annot
+*.cmo
+*.cma
+*.cmi
+*.a
+*.o
+*.cmx
+*.cmxs
+*.cmxa
+
+# ocamlbuild working directory
+_build/
+
+# ocamlbuild targets
+*.byte
+*.native
+
+# oasis generated files
+setup.data
+setup.log
+
+# test text files
+example.tex
+
+# dataset files
+dataset_old/
+other_datasets/
+dataset_small/
+datasets/
